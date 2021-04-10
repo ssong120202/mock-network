@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Réseau simulé</string>
+    <string name="welcome_statement">Accueil!</string>
+    <string name="username">Nom dutilisateur</string>
+    <string name="password">Mot de passe</string>
+    <string name="login_button">Connexion</string>
+    <string name="create_user">Créer un utilisateur ?</string>
+    <string name="forget_password">Mot de passe oublié ?</string>
+    <string name="welcome_back">Content de te revoir</string>
+    <string name="accountLogin_username_errorEmptyUnselected">Entrez votre nom dutilisateur</string>
+    <string name="accountLogin_username_errorFormatUnselected">Entrez un nom dutilisateur valide</string>
+    <string name="accountLogin_password_errorEmptyUnselected">Tapez votre mot de passe</string>
+</resources>

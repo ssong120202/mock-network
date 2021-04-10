@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mock Network</string>
+    <string name="welcome_statement">Welcome to FireFly!</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login_button">Login</string>
+    <string name="create_user">Create User ?</string>
+    <string name="forget_password">Forgot password ?</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="accountLogin_username_errorEmptyUnselected">"Enter your username"</string>
+    <string name="accountLogin_username_errorFormatUnselected">"Enter a valid username"</string>
+    <string name="accountLogin_password_errorEmptyUnselected">Enter your password</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="main_content" type="id" />
+    <item name="modal_container" type="id"/>
+    <item name="account_login_title_layout" type="id" />
+    <item name="account_login_title_header_text_view" type="id" />
+    <item name="account_login_header_accent_line_view" type="id" />
+    <item name="account_login_credentials_scroll_view" type="id" />
+    <item name="account_login_credentials_layout" type="id" />
+    <item name="account_login_button_loading_view" type="id" />
+    <item name="account_login_button_loading_view_progress_bar" type="id" />
+    <item name="account_login_password_layout" type="id" />
+    <item name="account_login_password_edit_text" type="id" />
+    <item name="account_login_password_error_image_view" type="id" />
+    <item name="account_login_login_button_container" type="id" />
+    <item name="account_login_login_button" type="id" />
+    <item name="account_login_clear_button" type="id" />
+    <item name="account_login_divider" type="id" />
+    <item name="account_login_user_name_error_image_view" type="id" />
+    <item name="account_login_user_name_edit_text" type="id" />
+    <item name="account_login_user_name_layout" type="id" />
+    <item name="account_login_forgot_password_view" type="id" />
+    <item name="account_login_create_account_forgot_password_layout" type="id" />
+    <item name="account_login_create_account_text_view" type="id" />
+    <item name="account_fragment_account_info_linear_layout" type="id" />
+    <item name="account_fragment_welcome_back_text_view" type="id" />
+    <item name="account_fragment_user_name_text_view" type="id" />
+</resources>
